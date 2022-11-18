@@ -10,7 +10,7 @@
                     </tr>
                     <tr>
                         <td>EX 001</td>
-                        <td><a href="/exercicios/ex001.php">teste</a></td>
+                        <td><a href="/exercicios/ex001.php">Tipos de dados</a></td>
                     </tr>
                 </tbody>
             </table>
