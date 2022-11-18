@@ -73,9 +73,16 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 32px;
+    flex-direction: column;
+    margin: 0 auto 32px;
     padding: 8px 16px;
     border-radius: 8px;
+    text-align: center;
+}
+
+main.exercicios section{
+    width: 80%;
+    padding: 24px;
 }
 
 main.exercicios table{
@@ -97,14 +104,32 @@ main.exercicios table td a{
 }
 
 main section{
-    width: 80%;
+    max-width: 70%;
     border-radius: 6px;
     background-color: white;
     padding: 8px 16px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.212);
 }
 
-main > p{
-    text-align: center;
+main section hr{
+    margin: 16px;
+}
+
+main section h2{
+    margin: 8px;
+}
+
+main .content{
+    padding: 8px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+main .content img{
+    width: 40%;
+    border-radius: 8px;
+    margin: 8px;
 }
 
 footer{
@@ -113,4 +138,5 @@ footer{
     justify-content: center;
     color: white;
     background-color: #161616;
+    height: 48px;
 }
