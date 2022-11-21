@@ -3,6 +3,8 @@
         <h1></h1>
         <section>
             <div class="content">
+                <p></p>
+
                 <p><img src="" alt=""></p>
             </div>
             <div class="result">
