@@ -16,6 +16,10 @@
                         <td>EX 002</td>
                         <td><a href="/exercicios/ex002.php">Variáveis pré-definidas (globais)</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 003</td>
+                        <td><a href="/exercicios/ex003.php">Variáveis globais</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
