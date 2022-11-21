@@ -12,6 +12,10 @@
                         <td>EX 001</td>
                         <td><a href="/exercicios/ex001.php">Tipos de dados</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 002</td>
+                        <td><a href="/exercicios/ex002.php">Variáveis pré-definidas (globais)</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
