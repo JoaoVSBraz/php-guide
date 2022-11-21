@@ -20,6 +20,10 @@
                         <td>EX 003</td>
                         <td><a href="/exercicios/ex003.php">Variáveis globais</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 004</td>
+                        <td><a href="/exercicios/ex004.php">Operadores da PHP</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
