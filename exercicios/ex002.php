@@ -5,7 +5,7 @@
             <div class="content">
                 <p>O PHP traz consigo diversas variáveis pré-definidas criadas a fim de agilizar o desenvolvimento de aplicações web. Também são conhecidas como <strong>Arrays superglobais</strong>.</p>
 
-                <p><img src="" alt=""></p>
+                <p><img src="../assets/images/ex002.png" alt="Variaveis superglobais _GET e _SERVER"></p>
             </div>
             <div class="result">
                 <h2>Saída</h2>
