@@ -3,7 +3,7 @@
         <h1>Tipos de dados</h1>
         <section>
             <div class="content">
-                <p>O exercício abaixo cria algumas variáveis com os principais tipos de dados primitivos do PHP.</p>
+                <p>O exercício abaixo cria algumas variáveis com os principais tipos de dados primitivos do PHP (<strong>String</strong>, <strong>Int</strong>, <strong>Boolean</strong> e <strong>Float</strong>).</p>
 
                 <p><img src="../assets/images/ex001.php.png" alt="Algumas variaveis com os principais tipos do PHP"></p>
             </div>
