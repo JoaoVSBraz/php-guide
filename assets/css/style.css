@@ -80,6 +80,13 @@ main{
     text-align: center;
 }
 
+main code{
+    padding: 4px 8px;
+    background-color: #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
 main.exercicios section{
     width: 80%;
     padding: 24px;
