@@ -28,6 +28,10 @@
                         <td>EX 005</td>
                         <td><a href="/exercicios/ex005.php">Lidando com strings</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 006</td>
+                        <td><a href="/exercicios/ex006.php">Include e require</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
