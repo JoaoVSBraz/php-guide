@@ -24,6 +24,10 @@
                         <td>EX 004</td>
                         <td><a href="/exercicios/ex004.php">Operadores da PHP</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 005</td>
+                        <td><a href="/exercicios/ex005.php">Lidando com strings</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
