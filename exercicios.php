@@ -40,6 +40,10 @@
                         <td>EX 008</td>
                         <td><a href="/exercicios/ex008.php">Estruturas de repetição</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 009</td>
+                        <td><a href="/exercicios/ex009.php">Array unidimensional (vetor)</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
