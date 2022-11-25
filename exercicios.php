@@ -42,7 +42,11 @@
                     </tr>
                     <tr>
                         <td>EX 009</td>
-                        <td><a href="/exercicios/ex009.php">Array unidimensional (vetor)</a></td>
+                        <td><a href="/exercicios/ex009.php">Lidando com arrays</a></td>
+                    </tr>
+                    <tr>
+                        <td>EX 010</td>
+                        <td><a href="/exercicios/ex010.php">Lidando com JSON</a></td>
                     </tr>
                 </tbody>
             </table>
