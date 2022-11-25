@@ -48,6 +48,10 @@
                         <td>EX 010</td>
                         <td><a href="/exercicios/ex010.php">Lidando com JSON</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 011</td>
+                        <td><a href="/exercicios/ex011.php">Constantes</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
