@@ -56,6 +56,10 @@
                         <td>EX 012</td>
                         <td><a href="/exercicios/ex012.php">Sessões</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 013</td>
+                        <td><a href="/exercicios/ex013.php">Funções - Passagem de parâmetros por valor e referência</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
