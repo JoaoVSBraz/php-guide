@@ -5,6 +5,8 @@
             <div class="content">
                 <p>O exercício abaixo demonstra a criação de dois arrays - <strong>unidimensional (vetor)</strong> e <strong>bidimensional (matriz)</strong>.</p>
 
+                <p>A função <code>array_push()</code> adiciona novos itens a um array existente. Seu primeiro argumento refere-se ao array enquanto que o segundo trata-se do valor que queremos adicionar.</p>
+
                 <p><img src="../assets/images/ex009.png" alt="Exemplos de array unidimensional e bidimensional"></p>
             </div>
             <div class="result">
@@ -12,6 +14,8 @@
                 <?php 
                     echo '<h3>Array unidimensional (vetor)</h3>';
                     $pessoas = Array('João', 'Maria', 'José');
+                    print_r($pessoas);
+                    array_push($pessoas, 'Pedro');
                     print_r($pessoas);
 
                     echo '<hr>';
