@@ -36,6 +36,10 @@
                         <td>EX 007</td>
                         <td><a href="/exercicios/ex007.php">Estruturas de controle</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 008</td>
+                        <td><a href="/exercicios/ex008.php">Estruturas de repetição</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
