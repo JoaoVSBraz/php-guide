@@ -52,6 +52,10 @@
                         <td>EX 011</td>
                         <td><a href="/exercicios/ex011.php">Constantes</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 012</td>
+                        <td><a href="/exercicios/ex012.php">Sessões</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
