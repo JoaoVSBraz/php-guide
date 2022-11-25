@@ -32,6 +32,10 @@
                         <td>EX 006</td>
                         <td><a href="/exercicios/ex006.php">Include e require</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 007</td>
+                        <td><a href="/exercicios/ex007.php">Estruturas de controle</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
