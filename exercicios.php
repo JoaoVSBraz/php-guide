@@ -64,6 +64,10 @@
                         <td>EX 014</td>
                         <td><a href="/exercicios/ex014.php">Funções - Novidades na PHP 7</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 015</td>
+                        <td><a href="/exercicios/ex015.php">Funções - Função recursiva</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
