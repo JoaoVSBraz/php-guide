@@ -68,6 +68,10 @@
                         <td>EX 015</td>
                         <td><a href="/exercicios/ex015.php">Funções - Função recursiva</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 016</td>
+                        <td><a href="/exercicios/ex016.php">Funções - Função anônima</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
