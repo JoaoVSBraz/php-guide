@@ -72,6 +72,10 @@
                         <td>EX 016</td>
                         <td><a href="/exercicios/ex016.php">Funções - Função anônima</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 017</td>
+                        <td><a href="/exercicios/ex017.php">Lidando com datas</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
