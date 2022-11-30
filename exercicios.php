@@ -76,6 +76,10 @@
                         <td>EX 017</td>
                         <td><a href="/exercicios/ex017.php">Lidando com datas</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 018</td>
+                        <td><a href="/exercicios/ex018.php">Programação Orientada a Objetos - Introdução</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
