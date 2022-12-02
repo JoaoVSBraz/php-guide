@@ -80,6 +80,10 @@
                         <td>EX 018</td>
                         <td><a href="/exercicios/ex018.php">Programação Orientada a Objetos - Introdução</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 019</td>
+                        <td><a href="/exercicios/ex019.php">Programação Orientada a Objetos - Métodos estáticos</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
