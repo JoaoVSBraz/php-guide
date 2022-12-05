@@ -96,6 +96,10 @@
                         <td>EX 022</td>
                         <td><a href="/exercicios/ex022.php">Programação Orientada a Objetos - Herança</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 023</td>
+                        <td><a href="/exercicios/ex023.php">Programação Orientada a Objetos - Interface</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
