@@ -92,6 +92,10 @@
                         <td>EX 021</td>
                         <td><a href="/exercicios/ex021.php">Programação Orientada a Objetos - Encapsulamento</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 022</td>
+                        <td><a href="/exercicios/ex022.php">Programação Orientada a Objetos - Herança</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
