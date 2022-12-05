@@ -88,6 +88,10 @@
                         <td>EX 020</td>
                         <td><a href="/exercicios/ex020.php">Programação Orientada a Objetos - Métodos mágicos</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 021</td>
+                        <td><a href="/exercicios/ex021.php">Programação Orientada a Objetos - Encapsulamento</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
