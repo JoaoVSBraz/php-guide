@@ -104,6 +104,10 @@
                         <td>EX 024</td>
                         <td><a href="/exercicios/ex024.php">Programação Orientada a Objetos - Classe Abstrata</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 025</td>
+                        <td><a href="/exercicios/ex025.php">Programação Orientada a Objetos - Polimorfismo</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
