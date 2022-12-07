@@ -100,6 +100,10 @@
                         <td>EX 023</td>
                         <td><a href="/exercicios/ex023.php">Programação Orientada a Objetos - Interface</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 024</td>
+                        <td><a href="/exercicios/ex024.php">Programação Orientada a Objetos - Classe Abstrata</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
