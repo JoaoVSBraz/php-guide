@@ -1,6 +1,6 @@
 <?php require_once('../partials/header.php') ?>
     <main>
-        <h1></h1>
+        <h1>Programação Orientada a Objetos - Interface</h1>
         <section>
             <div class="content">
                 <p><strong>Interface</strong> é um tipo de contrato que auxilia no desenvolvimento de sotftwares ao obrigar que as informações dentro da interface sejam seguidas. Dessa forma, caso alguma classe implemente uma interface sem seguir a risca tudo que ela propõe, erros serão disparados.</p>
