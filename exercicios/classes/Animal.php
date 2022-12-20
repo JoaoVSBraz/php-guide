@@ -1,0 +1,12 @@
+<?php 
+    class Animal {
+
+        public function falar(){
+            return 'Som';
+        }
+
+        public function mover(){
+            return 'Andar';
+        }
+    }
+?>
