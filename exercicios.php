@@ -108,6 +108,10 @@
                         <td>EX 025</td>
                         <td><a href="/exercicios/ex025.php">Programação Orientada a Objetos - Polimorfismo</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 026</td>
+                        <td><a href="/exercicios/ex026.php">Autoload de classes</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
