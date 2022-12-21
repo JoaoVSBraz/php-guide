@@ -112,6 +112,10 @@
                         <td>EX 026</td>
                         <td><a href="/exercicios/ex026.php">Autoload de classes</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 027</td>
+                        <td><a href="/exercicios/ex027.php">Utilizando namespaces</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
