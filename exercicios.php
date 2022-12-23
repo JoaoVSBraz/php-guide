@@ -116,6 +116,10 @@
                         <td>EX 027</td>
                         <td><a href="/exercicios/ex027.php">Utilizando namespaces</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 028</td>
+                        <td><a href="/exercicios/ex028.php">Conectando ao banco de dados com MySQLi</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
