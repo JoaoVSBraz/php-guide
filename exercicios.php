@@ -128,6 +128,10 @@
                         <td>EX 030</td>
                         <td><a href="/exercicios/ex030.php">Conectando ao banco de dados com SQLServer e PDO</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 031</td>
+                        <td><a href="/exercicios/ex031.php">Inserindo dados no banco de dados com MySQL e PDO</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
