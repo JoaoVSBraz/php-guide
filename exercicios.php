@@ -120,6 +120,10 @@
                         <td>EX 028</td>
                         <td><a href="/exercicios/ex028.php">Conectando ao banco de dados com MySQLi</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 029</td>
+                        <td><a href="/exercicios/ex029.php">Conectando ao banco de dados com MySQL e PDO</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
