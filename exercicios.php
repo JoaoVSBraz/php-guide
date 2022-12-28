@@ -132,6 +132,10 @@
                         <td>EX 031</td>
                         <td><a href="/exercicios/ex031.php">Inserindo dados no banco de dados com MySQL e PDO</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 032</td>
+                        <td><a href="/exercicios/ex032.php">Alterando dados no banco de dados com MySQL e PDO</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
