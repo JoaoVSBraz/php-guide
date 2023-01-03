@@ -1,4 +1,5 @@
 <?php require_once('../partials/header.php') ?>
+<?php require_once('../autoload.php') ?>
     <main>
         <h1></h1>
         <section>
