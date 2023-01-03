@@ -140,6 +140,10 @@
                         <td>EX 033</td>
                         <td><a href="/exercicios/ex033.php">Deletando dados no banco de dados com MySQL e PDO</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 034</td>
+                        <td><a href="/exercicios/ex034.php">Usando transações</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
