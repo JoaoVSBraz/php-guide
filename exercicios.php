@@ -148,6 +148,10 @@
                         <td>EX 035</td>
                         <td><a href="/exercicios/ex035.php">DAO - Data Access Object</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 036</td>
+                        <td><a href="/exercicios/ex036.php">DAO - Select</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
