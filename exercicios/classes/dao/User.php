@@ -5,6 +5,12 @@ class User{
     private $passwd;
     private $createdAt;
 
+    public function __construct($login = '', $passwd = '')
+    {
+        $this->setLogin($login);
+        $this->setPasswd($passwd);
+    }
+
     public function getUserId(){
         return $this->userId;
     }
@@ -43,11 +49,7 @@ class User{
         $result = $sql->select('SELECT * FROM users WHERE user_id = :ID', array(':ID'=>$id));
 
         if(isset($result[0])){
-            $row = $result[0];
-            $this->setUserId($row['user_id']);
-            $this->setLogin($row['login']);
-            $this->setPasswd($row['passwd']);
-            $this->setCreatedAt(new Datetime($row['create_at']));
+            $this->setData($result[0]);
         }
     }
 
@@ -69,14 +71,30 @@ class User{
         $result = $sql->select('SELECT * FROM users WHERE login = :LOGIN AND passwd = :PASSWD', array(':LOGIN'=>$login, ':PASSWD'=>$passwd));
 
         if(isset($result[0])){
-            $row = $result[0];
-            $this->setUserId($row['user_id']);
-            $this->setLogin($row['login']);
-            $this->setPasswd($row['passwd']);
-            $this->setCreatedAt(new Datetime($row['create_at']));
+            $this->setData($result[0]);
         }else{
             throw new Exception('Login ou senha inválidos');
         }
+    }
+
+    public function insert(){
+        $sql = new Sql();
+
+        $results = $sql->select('CALL sp_user_insert(:LOGIN, :PASSWD)', array(
+            ':LOGIN'=>$this->getLogin(),
+            ':PASSWD'=>$this->getPasswd()
+        ));
+
+        if(count($results) > 0){
+            $this->setData($results[0]);
+        }
+    }
+
+    public function setData($data){
+        $this->setUserId($data['user_id']);
+        $this->setLogin($data['login']);
+        $this->setPasswd($data['passwd']);
+        $this->setCreatedAt(new Datetime($data['create_at']));
     }
 
     public function __toString(){
