@@ -102,6 +102,15 @@ class User{
         ));
     }
 
+    public function delete(){
+        $sql = new Sql();
+        $sql->execQuery('DELETE FROM users WHERE user_id = :ID', array(':ID'=>$this->getUserId()));
+        $this->setUserId(NULL);
+        $this->setLogin(NULL);
+        $this->setPasswd(NULL);
+        $this->setCreatedAt(new DateTime());
+    }
+
     public function setData($data){
         $this->setUserId($data['user_id']);
         $this->setLogin($data['login']);
