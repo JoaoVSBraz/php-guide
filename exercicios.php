@@ -164,6 +164,10 @@
                         <td>EX 039</td>
                         <td><a href="/exercicios/ex039.php">DAO - Update</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 040</td>
+                        <td><a href="/exercicios/ex040.php">DAO - Delete</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
