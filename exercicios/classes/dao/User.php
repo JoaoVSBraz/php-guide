@@ -90,6 +90,18 @@ class User{
         }
     }
 
+    public function update($login, $passwd){
+        $this->setLogin($login);
+        $this->setPasswd($passwd);
+
+        $sql = new Sql();
+        $sql->execQuery('UPDATE users SET login = :LOGIN, passwd = :PASSWD WHERE user_id = :ID', array(
+            ':LOGIN'=>$this->getLogin(),
+            ':PASSWD'=>$this->getPasswd(),
+            ':ID'=>$this->getUserId()
+        ));
+    }
+
     public function setData($data){
         $this->setUserId($data['user_id']);
         $this->setLogin($data['login']);
