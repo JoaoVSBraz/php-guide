@@ -168,6 +168,10 @@
                         <td>EX 040</td>
                         <td><a href="/exercicios/ex040.php">DAO - Delete</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 041</td>
+                        <td><a href="/exercicios/ex041.php">Lidando com arquivos - Como ler informações de arquivos</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
