@@ -176,6 +176,10 @@
                         <td>EX 042</td>
                         <td><a href="/exercicios/ex042.php">Lidando com arquivos - Como criar e escrever em arquivos</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 043</td>
+                        <td><a href="/exercicios/ex043.php">Lidando com arquivos - Como trazer registros do banco de dados num arquivo CSV</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
