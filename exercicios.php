@@ -172,6 +172,10 @@
                         <td>EX 041</td>
                         <td><a href="/exercicios/ex041.php">Lidando com arquivos - Como ler informações de arquivos</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 042</td>
+                        <td><a href="/exercicios/ex042.php">Lidando com arquivos - Como criar e escrever em arquivos</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
