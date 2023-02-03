@@ -180,6 +180,10 @@
                         <td>EX 043</td>
                         <td><a href="/exercicios/ex043.php">Lidando com arquivos - Como trazer registros do banco de dados num arquivo CSV</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 044</td>
+                        <td><a href="/exercicios/ex044.php">Lidando com arquivos - Como excluir arquivos e diretórios</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
