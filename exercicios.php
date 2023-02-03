@@ -184,6 +184,10 @@
                         <td>EX 044</td>
                         <td><a href="/exercicios/ex044.php">Lidando com arquivos - Como excluir arquivos e diretórios</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 045</td>
+                        <td><a href="/exercicios/ex045.php">Lidando com arquivos - Como ler arquivos</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
