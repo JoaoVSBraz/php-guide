@@ -188,6 +188,10 @@
                         <td>EX 045</td>
                         <td><a href="/exercicios/ex045.php">Lidando com arquivos - Como ler arquivos</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 046</td>
+                        <td><a href="/exercicios/ex046.php">Lidando com arquivos - Upload</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
