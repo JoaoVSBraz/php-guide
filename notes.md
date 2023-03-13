@@ -84,4 +84,8 @@ O interpretador PHP análise todo trecho de código que estiver presente entre a
 
 ## Variáveis
 
-Variáveis em PHP são representadas pelo sinal de cifrão ```$``` seguido do nome da variável.
+Variáveis em PHP são representadas pelo sinal de cifrão ```$``` seguido do nome da variável. Exemplo: ```$nome = 'João'```.
+
+Por padrão, a linguagem PHP possui algumas variáveis pré-definidas chamadas <strong>arrays superglobais</strong> que nada mais são do que um array contendo informações sobre o servidor e outros aspectos úteis durante o desenvolvimento de aplicações web. Um exemplo destes arrays superglobais são as variáveis ```$_GET``` e ```$_POST``` utilizadas para lidar com a transmissão de dados em requisições HTTP.
+
+Além das variáveis pré-definidas superglobais, a linguagem PHP permite que possamos elevar o escopo de uma variável ao escopo global de uma aplicação web ao utilizar a palavra reservada ```global```. Exemplo: ```global $nome```.
