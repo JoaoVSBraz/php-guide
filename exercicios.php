@@ -204,6 +204,10 @@
                         <td>EX 049</td>
                         <td><a href="/exercicios/ex049.php">Usando CURL</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 050</td>
+                        <td><a href="/exercicios/ex050.php">Usando cookies</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
