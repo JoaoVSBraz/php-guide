@@ -200,6 +200,10 @@
                         <td>EX 048</td>
                         <td><a href="/exercicios/ex048.php">Lidando com arquivos - Como mover arquivos</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 049</td>
+                        <td><a href="/exercicios/ex049.php">Usando CURL</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
