@@ -90,6 +90,8 @@ Por padrão, a linguagem PHP possui algumas variáveis pré-definidas chamadas <
 
 Além das variáveis pré-definidas superglobais, a linguagem PHP permite que possamos elevar o escopo de uma variável ao escopo global de uma aplicação web ao utilizar a palavra reservada ```global```. Exemplo: ```global $nome```.
 
+Também é possível definir contantes através da função ```define()```. O primeiro argumento consiste no nome da variável e o segundo seu valor. Exemplo: ```define('SERVIDOR', '127.0.0.1')```.
+
 ## Include e require
 
 Há duas formas de realizar a importação de arquivos através da linguagem PHP: ```include()``` e ```require```.
