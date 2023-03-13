@@ -105,3 +105,7 @@ As funções include e require possuem uma variação cada: ```include_once()```
 O acrônimo SPL significa Standard PHP Library e consiste num conjunto de interfaces, funções e classes padrões da linguagem PHP.
 
 Autoload consiste no carregamento automático de arquivos. A linguagem PHP dispõe de alguns funções utilitárias para este fim. A função ```spl_autoload_register()```,por exemplo, registra uma função que será encarregada de carregar arquivos de classes sempre que uma for instanciada.
+
+## PHP Data Object (PDO)
+
+PDO é uma interface leve e consistente de acesso base de dados em PHP. Ela não provê nenhuma abstração à base dados, isto é, não reescreve as consultas SQL, apenas fornece uma forma mais amigável de acesso a dados através de funções. É importante lembrar que nenhuma interação com a banco dados é feita apenas com o PDO, é necessário utilizar driver PDO específico para cada banco de dados.
