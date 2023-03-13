@@ -196,6 +196,10 @@
                         <td>EX 047</td>
                         <td><a href="/exercicios/ex047.php">Lidando com arquivos - Download</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 048</td>
+                        <td><a href="/exercicios/ex048.php">Lidando com arquivos - Como mover arquivos</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
