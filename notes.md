@@ -99,3 +99,9 @@ Há duas formas de realizar a importação de arquivos através da linguagem PHP
 A função ```include()``` tenta realizar a importação do arquivo passado como parâmetro e, caso não encontre, fará uma nova busca na pasta padrão <strong>include path</strong>. Já a função ```require()``` tentará realizar a importação do arquivo e caso não consiga, retornará um erro fatal.
 
 As funções include e require possuem uma variação cada: ```include_once()``` e ```require_once()```. Ambas objetivam realizar a importação do arquivo em questão apenas uma vez.
+
+## SPL e autoload
+
+O acrônimo SPL significa Standard PHP Library e consiste num conjunto de interfaces, funções e classes padrões da linguagem PHP.
+
+Autoload consiste no carregamento automático de arquivos. A linguagem PHP dispõe de alguns funções utilitárias para este fim. A função ```spl_autoload_register()```,por exemplo, registra uma função que será encarregada de carregar arquivos de classes sempre que uma for instanciada.
