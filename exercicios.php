@@ -192,6 +192,10 @@
                         <td>EX 046</td>
                         <td><a href="/exercicios/ex046.php">Lidando com arquivos - Upload</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 047</td>
+                        <td><a href="/exercicios/ex047.php">Lidando com arquivos - Download</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
