@@ -212,6 +212,10 @@
                         <td>EX 051</td>
                         <td><a href="/exercicios/ex051.php">Usando try/catch</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 052</td>
+                        <td><a href="/exercicios/ex052.php">Tratando erros</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
