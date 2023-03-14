@@ -224,6 +224,10 @@
                         <td>EX 054</td>
                         <td><a href="/exercicios/ex054.php">Biblioteca GD - Editando imagens existentes</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 055</td>
+                        <td><a href="/exercicios/ex055.php">Composer</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
