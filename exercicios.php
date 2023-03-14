@@ -216,6 +216,10 @@
                         <td>EX 052</td>
                         <td><a href="/exercicios/ex052.php">Tratando erros</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 053</td>
+                        <td><a href="/exercicios/ex053.php">Biblioteca GD - Criando uma imagem</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
