@@ -208,6 +208,10 @@
                         <td>EX 050</td>
                         <td><a href="/exercicios/ex050.php">Usando cookies</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 051</td>
+                        <td><a href="/exercicios/ex051.php">Usando try/catch</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
