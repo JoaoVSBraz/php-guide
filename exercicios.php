@@ -228,6 +228,10 @@
                         <td>EX 055</td>
                         <td><a href="/exercicios/ex055.php">Composer</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 056</td>
+                        <td><a href="/exercicios/ex056.php">Segurança - Command Injection</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
