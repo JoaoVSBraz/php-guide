@@ -1,7 +1,7 @@
 <?php require_once('../partials/header.php') ?>
 <?php require_once('../autoload.php') ?>
     <main>
-        <h1></h1>
+        <h1>Composer</h1>
         <section>
             <div class="content">
                 <p>Composer é a ferramenta utilizada para <strong>gerenciamento de dependências</strong> no PHP.</p>
