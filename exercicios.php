@@ -232,6 +232,10 @@
                         <td>EX 056</td>
                         <td><a href="/exercicios/ex056.php">Segurança - Command Injection</a></td>
                     </tr>
+                    <tr>
+                        <td>EX 057</td>
+                        <td><a href="/exercicios/ex057.php">Segurança - Criptografia em PHP</a></td>
+                    </tr>
                 </tbody>
             </table>
         </section>
